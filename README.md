@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+
 </head>
 <body>
 <h2>DSA Module 08.5: Linked List ➤ Implement a paper-storing facility using a Stack📝</h2>
