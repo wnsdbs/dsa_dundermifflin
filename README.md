@@ -4,7 +4,7 @@
 
 </head>
 <body>
-<h2>DSA Module 08.5: Linked List ➤ Implement a paper-storing facility using a Stack📝</h2>
+<h2>Linked List ➤ Implement a paper-storing facility using a Stack📝</h2>
 <img src="dunder.png" style="width:810px;height:180px;">
 <h1></h1>
 <p><b>Instructions:</b></p>
